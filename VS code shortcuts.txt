@@ -3,4 +3,5 @@ Change Theme: Ctrl + k + T
 Open Terminal: Ctrl + `
 Select Duplicate Words: Ctrl + D
 Advanced Select Duplicate Words: Ctrl + D + D
+To Duplicate line: Alt + Shift + DownKey
 
