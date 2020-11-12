@@ -56,7 +56,8 @@ This command creates a new branch and also switches to it.
 
 then, git status to view which files to add
 
-8. git add [ur folder]
+8. To make ur files tracked:
+usage: git add .
 
 then, git status to see ur updates
 
